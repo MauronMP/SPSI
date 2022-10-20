@@ -1,2 +1,4 @@
-# SPSI
-Respositorio para los ejercicios en pareja de la asignatura
+#Repositorio para los ejercicios de SPSI
+
+Se usará para trabajar en equipo con @JaimeGM96.
+Los ejercicios se harán en formato 'ipynb'
